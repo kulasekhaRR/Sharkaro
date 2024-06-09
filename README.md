@@ -8,3 +8,5 @@ BackEnd-  Run npm run dev or npm run serve
 Make sure to change all url credentials before using 
 
 link format-http://localhost:liveport
+
+live link-frontend - https://kulasekharr.github.io/Share_You/
