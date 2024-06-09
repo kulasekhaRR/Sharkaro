@@ -6,3 +6,5 @@ FrontEnd- Run index.js and live the index.html code
 BackEnd-  Run npm run dev or npm run serve
 
 Make sure to change all url credentials before using 
+
+link format-http://localhost:liveport
